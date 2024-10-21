@@ -1,0 +1,1 @@
+{"version":3,"file":"Reservations-86263ea8.js","sources":["../../src/modules/Reservations/Reservations.vue"],"sourcesContent":["<template>\n  <div class=\"py-4\">\n    <RouterView />\n  </div>\n</template>\n<script setup lang=\"ts\"></script>\n"],"names":["_openBlock","_createElementBlock","_hoisted_1"],"mappings":"0IAEkBA,EAAA,EAAAC,EAAA,MAAAC,EAAA"}
